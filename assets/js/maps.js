@@ -58,7 +58,7 @@ function init() {
     });
 
     var contentString = '<div id="content">' +'<div id="siteNotice">' +'</div>' +
-        '<h1 id="firstHeading" class="firstHeading">Uluru</h1>' +'<div id="bodyContent">' +'Heritage Site.</p>' +
+        '<h1 id="firstHeading" class="firstHeading">Dealership Address</h1>' +'<div id="bodyContent">' +'The complete dealearship address here.</p>' +
         '</div>' +
         '</div>';
 
